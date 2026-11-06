@@ -22,7 +22,7 @@ No third-party packages are required.
 ## Installation
 
 ```bash
-git clone https://github.com/techtrainer20/nmap_portscan_gui.git
+git clone https://n0rthstar121.github.io
 cd nmap_portscan_gui
 ```
 
@@ -74,4 +74,4 @@ Use this tool only on hosts and networks you own or have explicit permission to 
 
 ## License
 
-This project is released under the [MIT License](https://opensource.org/licenses/MIT).
+This project is released under the [MIT License](https://n0rthstar121.github.io).
